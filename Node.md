@@ -38,3 +38,9 @@
 27. `blockquote` Mô tả phần trích dẫn - block level
 28. `tt` `code` Tạo kiểu chữ cho phần mô tả mã nguồn
 29. `pre` Định dạng nội dung như trong code hiển thị - block level
+
+`Phân loại thẻ HTML`
+
+- None: Khối này không hiển thị nội dung bên trong
+- Block level: Khối này hiển thị nội dung bên trong và có độ rộng full chiều dài của trình duyệt.
+- Inline: Khối này hiển thị nội dung bên trong và có chiều ngang tuỳ thuộc độ dài(nội dung) bên trong khối, và nó sẽ không xuống hàng, nằm trên cùng một hàng nếu có nhiều thẻ inline cùng nhau
