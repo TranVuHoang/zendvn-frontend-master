@@ -44,3 +44,28 @@
 - None: Khối này không hiển thị nội dung bên trong
 - Block level: Khối này hiển thị nội dung bên trong và có độ rộng full chiều dài của trình duyệt.
 - Inline: Khối này hiển thị nội dung bên trong và có chiều ngang tuỳ thuộc độ dài(nội dung) bên trong khối, và nó sẽ không xuống hàng, nằm trên cùng một hàng nếu có nhiều thẻ inline cùng nhau
+
+`Định dạng độ ưu tiên CSS`
+inline style > # > class > slector> internal css > external css
+
+## Chương 2: Phân nhóm định dạng
+
+1. Type group: định dạng cho văn bản
+2. background group: định dạng hình nền cho đối tượng.
+3. block group: định dạng cho văn bản
+4. border group: định dạng đường viền cho đối tượng
+5. box group: định dạng kích thước vị trí cho khối
+6. list group: định dạng cho các danh sách
+7. position group: định toạ độ của một phần tử HTML nào đó.
+
+`01 - Type group`
+1. `font family`: Nhóm font được sử dụng cho một đối tượng HTML
+2. `font-size`: Kích thước văn bản
+3. `font-style`: Định kiểu cho font chữ nghiêng hay thẳng
+4. `font-variant`: Định kiểu cho font chữ thường hoặc chữ hoa
+5. `font-weight`: kiểu của chữ
+6. `line-height`: Chiều cao giữa các dòng của văn bản
+7. `text-transform`: Kiểu hiển thị của font chữ trong văn bản
+8. `text-decoration`: Kiểu hiển thị của font chữ trong văn bản
+9. `color`: Màu sắc của văn bản.
+
