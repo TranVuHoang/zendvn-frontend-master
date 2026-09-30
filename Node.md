@@ -59,6 +59,7 @@ inline style > # > class > slector> internal css > external css
 7. position group: định toạ độ của một phần tử HTML nào đó.
 
 `01 - Type group`
+
 1. `font family`: Nhóm font được sử dụng cho một đối tượng HTML
 2. `font-size`: Kích thước văn bản
 3. `font-style`: Định kiểu cho font chữ nghiêng hay thẳng
@@ -70,8 +71,20 @@ inline style > # > class > slector> internal css > external css
 9. `color`: Màu sắc của văn bản.
 
 `02 - Background group`
+
 1. `background-color`: màu nền của đối tượng
 2. `background-image`: Sử dụng nền là một hình ảnh
 3. `background-repeat`: Kiểu hiển thị hình nền cho đối tượng
 4. `background-position`: Vị trí hiển thị của hình nền
 5. `background-attachment`: Chế độ cố định hình nền
+
+`03 - Block group`
+
+1.`letter-spacing`: Khoảng cách giữa các ký tự
+2. `word-spacing`: Khoảng cách giữa các từ trong đoạn văn bản
+3. `text-align`: Vị trí của đoạn văn bản
+4. `text-indent`: khoảng cách thụt đầu dòng của 1 đoạn văn
+5. `white-spacing`: Định dạng cho khoảng trắng trong đoạn văn bản
+6. `vertical-align`: vị trí của 1 phần tử
+7. `display`: Các kiểu hiển thị theo kiểu block, inline
+
