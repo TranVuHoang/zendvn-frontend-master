@@ -80,11 +80,17 @@ inline style > # > class > slector> internal css > external css
 
 `03 - Block group`
 
-1.`letter-spacing`: Khoảng cách giữa các ký tự
-2. `word-spacing`: Khoảng cách giữa các từ trong đoạn văn bản
-3. `text-align`: Vị trí của đoạn văn bản
-4. `text-indent`: khoảng cách thụt đầu dòng của 1 đoạn văn
-5. `white-spacing`: Định dạng cho khoảng trắng trong đoạn văn bản
-6. `vertical-align`: vị trí của 1 phần tử
-7. `display`: Các kiểu hiển thị theo kiểu block, inline
+1.`letter-spacing`: Khoảng cách giữa các ký tự 2. `word-spacing`: Khoảng cách giữa các từ trong đoạn văn bản 3. `text-align`: Vị trí của đoạn văn bản 4. `text-indent`: khoảng cách thụt đầu dòng của 1 đoạn văn 5. `white-spacing`: Định dạng cho khoảng trắng trong đoạn văn bản 6. `vertical-align`: vị trí của 1 phần tử 7. `display`: Các kiểu hiển thị theo kiểu block, inline
 
+`04 - border group`
+
+1. `border-width`: độ rộng của đường viền
+2. `border-style`: kiểu đường viền
+3. `border-color`: Màu sắc đường viền
+
+`04 - box group`
+
+1. `width`,`min-width`, `max-width`: Chiều rộng của đối tượng
+2. `height`, `min-height`, `max-height`: Chiều cao của đối tượng
+3. `margin`: Khoảng cách đối tượng với phần tử bên ngoài
+4. `padding`: Khoảng cách đối với phần tử bên trong
