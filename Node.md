@@ -69,3 +69,9 @@ inline style > # > class > slector> internal css > external css
 8. `text-decoration`: Kiểu hiển thị của font chữ trong văn bản
 9. `color`: Màu sắc của văn bản.
 
+`02 - Background group`
+1. `background-color`: màu nền của đối tượng
+2. `background-image`: Sử dụng nền là một hình ảnh
+3. `background-repeat`: Kiểu hiển thị hình nền cho đối tượng
+4. `background-position`: Vị trí hiển thị của hình nền
+5. `background-attachment`: Chế độ cố định hình nền
