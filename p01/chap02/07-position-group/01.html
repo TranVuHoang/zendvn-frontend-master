@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Example 01</title>
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      .block {
+        width: 400px;
+        height: 250px;
+        margin: 50px auto;
+        border: 2px solid red;
+        position: relative;
+      }
+      .box {
+        width: 100px;
+        height: 100px;
+        text-align: center;
+        line-height: 100px;
+      }
+
+      .box-a {
+        background: #dc6969;
+        position: absolute;
+        bottom: 0;
+      }
+
+      .box-b {
+        background: #69dc88;
+        position: absolute;
+        right: 0;
+      }
+
+      .box-c {
+        background: #699bdc;
+        position: absolute;
+        left: 0;
+      }
+
+      .box-d {
+        background: #dc69c9;
+        position: absolute;
+        bottom: 0;
+        right: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="block">
+      <div class="box box-a">Box A</div>
+      <div class="box box-b">Box B</div>
+      <div class="box box-c">Box C</div>
+      <div class="box box-d">Box D</div>
+    </div>
+  </body>
+</html>

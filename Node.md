@@ -100,3 +100,16 @@ inline style > # > class > slector> internal css > external css
 1. `list-style-position`: vị trí của icon `<li>`. Giá trị mặc định là outside
 2. `list-style-type`: Kiểu icon của `<li>`
 3. `list-style-image`: Hình ảnh icon của `<li>`
+
+`07 - position group`
+
+1. `position`: Kiểu hiển thị của một đối tượng
+2. `top`: Khoảng cách từ đối tượng đến vị trí top
+3. `right`: Khoảng cách từ đối tượng đến vị trí right
+4. `bottom`: Khoảng cách từ đối tượng đến vị trí bottom
+5. `left`: Khoảng cách từ đối tượng đến vị trí left
+6. `z-index`: vị trí của đối tượng
+7. `overflow`: Chế độ hiển thị thanh cuộn
+
+Ex1: position: relative và position: absolute
+
