@@ -95,3 +95,8 @@ inline style > # > class > slector> internal css > external css
 3. `margin`: Khoảng cách đối tượng với phần tử bên ngoài
 4. `padding`: Khoảng cách đối với phần tử bên trong
 
+`06 - List group`
+
+1. `list-style-position`: vị trí của icon `<li>`. Giá trị mặc định là outside
+2. `list-style-type`: Kiểu icon của `<li>`
+3. `list-style-image`: Hình ảnh icon của `<li>`
