@@ -94,3 +94,4 @@ inline style > # > class > slector> internal css > external css
 2. `height`, `min-height`, `max-height`: Chiều cao của đối tượng
 3. `margin`: Khoảng cách đối tượng với phần tử bên ngoài
 4. `padding`: Khoảng cách đối với phần tử bên trong
+

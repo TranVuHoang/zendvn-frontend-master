@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Example 02</title>
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      .box {
+        width: 150px;
+        height: 150px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+      .box-a {
+        background: rgb(213, 78, 78);
+      }
+
+      .box-b {
+        background: rgb(81, 166, 212);
+      }
+
+      .box-c {
+        background: rgb(251, 168, 73);
+      }
+
+      .box-d {
+        background: rgb(153, 182, 67);
+        width: 100vw;
+      }
+
+      .group-box-abc {
+        display: flex;
+        justify-content: space-between;
+      }
+
+      .group-box-ab {
+        display: flex;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="group-box-abc">
+      <div class="group-box-ab">
+        <div class="box box-a">Box A</div>
+        <div class="box box-b">Box B</div>
+      </div>
+      <div class="box box-c">Box C</div>
+    </div>
+
+    <div class="box box-d">Box D</div>
+  </body>
+</html>
